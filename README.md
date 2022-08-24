@@ -2,7 +2,6 @@
  
  ##
 
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ketlynGKR&show_icons=true&count_private=true&hide_border=true&title_color=9B004D&icon_color=9B004D&text_color=c9d1d9&bg_color=0d1117" alt="ketlynGKR github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketlynGKR&layout=compact&hide_border=true&title_color=9B004D&text_color=9B004D&bg_color=0d1117" />
@@ -18,6 +17,11 @@
   ##
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c004d&size=35&center=true&vCenter=true&width=1000&lines=Eu+estou+interessada+em+aprender+novas+linguagens;estou+aprendendo+a+programar+recentemente+a;linguagem+de+JavaScript+e+Scratch)](https://git.io/typing-svg)
+
+##
+
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ##
 
