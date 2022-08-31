@@ -16,7 +16,7 @@
 
   ##
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c004d&size=35&center=true&vCenter=true&width=1000&lines=Eu+estou+interessada+em+aprender+novas+linguagens;Estou+aprendendo+a+programar+recentemente+a;linguagem+de+JavaScript+e+Scratch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c004d&size=35&center=true&vCenter=true&width=1000&lines=Estou+interessada+em+aprender+novas+linguagens;Estou+aprendendo+a+programar+recentemente+a;linguagem+de+JavaScript+e+Scratch)](https://git.io/typing-svg)
 
 ##
 
