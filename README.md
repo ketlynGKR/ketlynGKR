@@ -22,11 +22,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c004d&size=35&center=true&vCenter=true&width=1000&lines=Estou+interessada+em+aprender+novas+linguagens;Estou+aprendendo+a+programar+recentemente+a;linguagem+de+JavaScript+e+Scratch)](https://git.io/typing-svg)
 
 ##
-
+ 
+ <div align="center"> 
+ 
+  :butterfly:
  ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  :butterfly:
 
+</div> 
+  
 ##
 
  ![Snake animation](https://github.com/ketlynGKR/ketlynGKR/blob/output/github-contribution-grid-snake.svg)
