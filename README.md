@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c004d&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo(a)+ao+meu+perfil;Me+chamo+Ketlyn+Gabriely+Komarcheuski+Ribeiro;Tenho+16+anos;Sou+de+Campo+Do+Tenente,+PR+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c004d&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo(a)+ao+meu+perfil;Me+chamo+Ketlyn+Gabriely+Komarcheuski+Ribeiro;Tenho+17+anos;Sou+de+Campo+Do+Tenente,+PR+:%29)](https://git.io/typing-svg)
  
  ##
 
