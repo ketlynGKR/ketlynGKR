@@ -1,6 +1,4 @@
-<img align="right" width=140px height=100px alt="star" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20zdWQ0dWpyc2UydGVza2dtY3ZhOTU4aHEwZTB0N2phNHZ2MWhjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vJxbdKWfLNXYxHxTig/giphy.gif" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e81780&size=35&left=true&vCenter=true&width=1000&lines=%E2%8A%B9+Olá,+seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e81780&size=35&center=true&vCenter=true&width=1000&lines=%E2%8A%B9+Olá,+seja+bem+vindo(a)+ao+meu+perfil!+%E2%8A%B9)](https://git.io/typing-svg)
 
 ##
 
