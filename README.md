@@ -3,29 +3,26 @@
 
 ##
 
-<img align="right" width=180px height=150px alt="cat" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnM1Y3RoZWNnbmNuZzVzZ2Fmb3RyOGlwMG4xM2g0amtyMnN5cjNoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ao9DUiTKH60XS/giphy.gif" />
-
-<img align="left" width=180px height=150px alt="cat" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB1eXNzM2xucWI5a3loczRobG1rajFlZWMxZXZjMDQ2MTRjbGxseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4QZK21zlzVIyc/giphy.gif" />
+<img align="left" width=180px height=150px alt="dog" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejl3YjY1MjB5dXMyYmJwemxzZWRwY3M5YXFzeWoyYTFuZ2x4NTI2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGI8GoTL7N4DsyI/giphy.gif" />
 
 
 <h3 align="left">Sobre mim ~ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 <p align="justify">Meu nome é Ketlyn Gabriely Komarcheuski Ribeiro, tenho 18 anos e sou estudante de Ciência da Computação na UNINTER. Apaixonada por tecnologia, estou sempre em busca de expandir meus conhecimentos e enfrentar novos desafios na área.</p>
 
-##
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ketlynGKR&show_icons=true&count_private=true&hide_border=true&title_color=a310a3&icon_color=a310a3&text_color=c9d1d9&bg_color=0d1117" alt="ketlynGKR github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketlynGKR&layout=compact&hide_border=true&title_color=a310a3&text_color=ffffff&bg_color=0d1117" />
+<div align="left"> 
+  <a href="https://www.instagram.com/ketlyn.xks/" target"=_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:ketlyn.xks@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
 
 ##
 
 <div align="center"> 
- :butterfly:
-  <a href="https://www.instagram.com/ketlyn.xks/" target"=_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:ketlyn.xks@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
- :butterfly:
+  <h3 align="left"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGltMzNiZno2MnQ4MzZ6YXN2dnFqNmthdmFmMGU1dmpoZW45dW9zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ddHNWtQgzG8w17fnqS/giphy.gif" width="50">Github stats: </h3>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ketlynGKR&show_icons=true&count_private=true&hide_border=true&title_color=a310a3&icon_color=a310a3&text_color=c9d1d9&bg_color=0d1117" alt="ketlynGKR github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketlynGKR&layout=compact&hide_border=true&title_color=a310a3&text_color=ffffff&bg_color=0d1117" />
 </div>
+
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketlynGKR/ketlynGKR/output/github-contribution-grid-snake-dark.svg">
@@ -34,6 +31,7 @@
 </picture>
 
 ##
+
  <div align="center">
 <br><p align="centre"><b>Contagem de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ketlynGKR}/count.svg" /></p> 
