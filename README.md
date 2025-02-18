@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9c004d&size=35&center=true&vCenter=true&width=1000&lines=Olá,+seja+bem+vindo(a)+ao+meu+perfil;Me+chamo+Ketlyn+Gabriely+Komarcheuski+Ribeiro;Tenho+18+anos;Sou+de+Campo+Do+Tenente,+PR+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9600ff&size=35&center=true&vCenter=true&width=1000&lines=%E2%8A%B9+Olá,+seja+bem+vindo(a)+ao+meu+perfil!+%E2%8A%B9)](https://git.io/typing-svg)
  
  ##
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ketlynGKR&show_icons=true&count_private=true&hide_border=true&title_color=9B004D&icon_color=9B004D&text_color=c9d1d9&bg_color=0d1117" alt="ketlynGKR github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketlynGKR&layout=compact&hide_border=true&title_color=9B004D&text_color=9B004D&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ketlynGKR&show_icons=true&count_private=true&hide_border=true&title_color=9600ff&icon_color=9600ff&text_color=c9d1d9&bg_color=0d1117" alt="ketlynGKR github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketlynGKR&layout=compact&hide_border=true&title_color=9600ff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ##
