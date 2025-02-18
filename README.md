@@ -1,5 +1,6 @@
+<img align="right" width=140px height=100px alt="star" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb20zdWQ0dWpyc2UydGVza2dtY3ZhOTU4aHEwZTB0N2phNHZ2MWhjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vJxbdKWfLNXYxHxTig/giphy.gif" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a310a3&size=35&center=true&vCenter=true&width=1000&lines=%E2%8A%B9+Olá,+seja+bem+vindo(a)+ao+meu+perfil!+%E2%8A%B9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e81780&size=35&left=true&vCenter=true&width=1000&lines=%E2%8A%B9+Olá,+seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ##
 
@@ -19,8 +20,8 @@
 
 <div align="center"> 
   <h3 align="left"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGltMzNiZno2MnQ4MzZ6YXN2dnFqNmthdmFmMGU1dmpoZW45dW9zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ddHNWtQgzG8w17fnqS/giphy.gif" width="50">Github stats: </h3>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ketlynGKR&show_icons=true&count_private=true&hide_border=true&title_color=a310a3&icon_color=a310a3&text_color=c9d1d9&bg_color=0d1117" alt="ketlynGKR github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketlynGKR&layout=compact&hide_border=true&title_color=a310a3&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ketlynGKR&show_icons=true&count_private=true&hide_border=true&title_color=e81780&icon_color=e81780&text_color=c9d1d9&bg_color=0d1117" alt="ketlynGKR github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketlynGKR&layout=compact&hide_border=true&title_color=e81780&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ##
@@ -36,4 +37,6 @@
  <div align="center">
 <br><p align="centre"><b>Contagem de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ketlynGKR}/count.svg" /></p> 
-<br></div>
+
+<img align="center" width=150px height=140px alt="cat" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpwcjBva3U1NnFtaG1haXg4MnJzaHNlbDJ6MTFkdjU0emF1d29sayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4QZK21zlzVIyc/giphy.gif" />
+</div>
