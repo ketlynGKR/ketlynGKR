@@ -5,7 +5,7 @@
 <img align="left" width=220px height=200px alt="dog" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejl3YjY1MjB5dXMyYmJwemxzZWRwY3M5YXFzeWoyYTFuZ2x4NTI2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l4FGI8GoTL7N4DsyI/giphy.gif" />
 
 <h3 align="left">Sobre mim ~ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-<p align="justify">Meu nome é Ketlyn Gabriely Komarcheuski Ribeiro, tenho 18 anos e sou estudante de Ciência da Computação na UNINTER. Apaixonada por tecnologia, estou sempre em busca de expandir meus conhecimentos e enfrentar novos desafios na área.</p>
+<p align="justify">Meu nome é Ketlyn Gabriely Komarcheuski Ribeiro, tenho 18 anos e sou estudante de Ciência da Computação. Apaixonada por tecnologia, estou sempre em busca de expandir meus conhecimentos e enfrentar novos desafios na área.</p>
 
 <h3 align="left">Connect with me! ~ </h3>
 
