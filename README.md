@@ -30,9 +30,6 @@
 
 ##
 
- <div align="center">
-<br><p align="centre"><b>Contagem de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ketlynGKR}/count.svg" /></p> 
-
+<div align="center">
 <img align="center" width=150px height=140px alt="cat" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpwcjBva3U1NnFtaG1haXg4MnJzaHNlbDJ6MTFkdjU0emF1d29sayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4QZK21zlzVIyc/giphy.gif" />
 </div>
