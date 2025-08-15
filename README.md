@@ -3,7 +3,7 @@
 ##
 
 <h3 align="left">Sobre mim ~ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-<p align="justify">Meu nome é Ketlyn Gabriely Komarcheuski Ribeiro, tenho 18 anos e sou estudante de Ciência da Computação. <br> Apaixonada por tecnologia, estou sempre em busca de expandir meus conhecimentos e enfrentar novos desafios na área.</p>
+<p align="justify">Meu nome é Ketlyn Gabriely Komarcheuski Ribeiro, tenho 18 anos e curso Ciência da Computação. Apaixonada por tecnologia, <br> estou sempre em busca de expandir meus conhecimentos e enfrentar novos desafios na área.</p>
 
 <div style="display: inline_block">
 <img align="center" alt="Ketlyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
